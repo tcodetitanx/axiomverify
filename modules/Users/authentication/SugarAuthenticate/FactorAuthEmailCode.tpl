@@ -85,8 +85,7 @@
         </div>
 
         <div class="p_login_bottom">
-            <a id="admin_options">© Supercharged by SuiteCRM</a>
-            <a id="powered_by">© Powered By SugarCRM</a>
+        Powered By Axiom Tech Systems
         </div>
     </div>
 </body>

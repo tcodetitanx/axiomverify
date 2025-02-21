@@ -58,8 +58,7 @@
                 <p>{$COPYRIGHT}</p>
             </div>
             <div id="copyrightbuttons">
-                <a id="admin_options">&copy; {$APP.LBL_SUITE_SUPERCHARGED}</a>
-                <a id="powered_by">&copy; {$APP.LBL_SUITE_POWERED_BY}</a>
+               Powered By Axiom Tech Systems
             </div>
         </div>
         {if $STATISTICS}

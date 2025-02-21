@@ -148,8 +148,7 @@
     
     <div class="p_login_bottom">
 
-    		<a id="admin_options">&copy; Supercharged by SuiteCRM</a>
-            <a id="powered_by">&copy; Powered By SugarCRM</a>
+    	Powered By Axiom Tech Systems
     	
 	</div>
     
