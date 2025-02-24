@@ -62,6 +62,18 @@
 @import '../suitep-base/aow';
 @import '../suitep-base/sidebar';
 @import '../suitep-base/navbar';
+
+// Override the login logo
+div.p_login .p_login_top a {
+  background-image: none, url("../../../../../custom/themes/default/images/company_logo.png?v=1CqWxJ5o0kjDlUoUv7nt0Q") !important;
+}
+
+@media (max-width: 750px) {
+  div.p_login .p_login_top a {
+    background-image: none, url("../../../../../custom/themes/default/images/company_logo.png?v=1CqWxJ5o0kjDlUoUv7nt0Q") !important;
+  }
+}
+
 @import '../suitep-base/login';
 @import '../suitep-base/forms';
 @import '../suitep-base/dashboard';
@@ -81,4 +93,5 @@
 @import '../suitep-base/studio';
 @import '../suitep-base/tinymce.scss';
 @import '../suitep-base/jstree';
+@import '../suitep-base/search';
 //
