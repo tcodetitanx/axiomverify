@@ -1,4 +1,3 @@
-
 /**** LOGIN **/
 
 .login {
@@ -28,7 +27,7 @@ div.p_login .error {
 
 div.p_login .p_login_top a {
   display: block;
-  background-image: none, url("../../../../../themes/SuiteP/images/p_login_logo.svg"), url("../../../../../themes/SuiteP/images/p_login_logo.png");
+  background-image: url("../../../../../themes/SuiteP/images/p_login_logo.png");
   background-position: 0 0;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -185,7 +184,7 @@ div.p_login #loginform #bigbutton:hover {
   }
 
   div.p_login .p_login_top a {
-    background-image: none, url("../../../../../themes/SuiteP/images/p_login_logo.svg"), url("../../../../../themes/SuiteP/images/p_login_logo.png");
+    background-image: url("../../../../../themes/SuiteP/images/p_login_logo.png");
     background-position: 0 -70px;
     width: 170px;
     height: 30px;
