@@ -1,0 +1,61 @@
+/* Custom login page styles */
+/* These styles will override the default styles */
+
+/* Main login container */
+.p_login {
+    /* Add your custom styles here */
+    
+}
+
+/* Top bar of login page */
+.p_login .p_login_top {
+    /* Add your custom styles here */
+}
+
+/* Middle section containing the form */
+.p_login .p_login_middle {
+    /* Add your custom styles here */
+}
+
+/* Login form container */
+.p_login #loginform {
+    /* Add your custom styles here */
+}
+
+/* Input fields */
+.p_login #loginform .input-group input {
+    color: white !important; /* Make typed text white */
+    caret-color: white !important; /* Make the cursor/caret white */
+}
+
+/* Hide placeholder on focus using vendor prefixes for broader support */
+.p_login #loginform .input-group input:focus::-webkit-input-placeholder {
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+.p_login #loginform .input-group input:focus::-moz-placeholder {
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+.p_login #loginform .input-group input:focus:-ms-input-placeholder {
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+.p_login #loginform .input-group input:focus::placeholder {
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+/* Login button */
+.p_login #loginform #bigbutton {
+    /* Add your custom styles here */
+}
+
+/* Bottom section */
+.p_login .p_login_bottom {
+    /* Add your custom styles here */
+    
+} 
