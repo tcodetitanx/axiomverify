@@ -48,12 +48,13 @@
 <!-- Start login container -->
 
 <div class="p_login">
+        <div style="position: absolute; top: 10px; right: 20px;">
+                <a title="Get Axiom Verified" href="https://docs.google.com/forms/d/1CBAeCupO6iyZpaQGVNrd3Nx1w5pNtK0iFJCGBhAOvWA" style="color: white; text-decoration: none;">Get Axiom Verified</a>
+        </div>
 
-	<div class="p_login_top">
-		
-		<a title="Axiom Verify" href="#">Axiom Verify</a>
-		
-	</div>
+        <div class="p_login_top">
+                <div class="companylogo" style="padding: 10px;"><img src="themes/SuiteP/images/axiomVerifyBannerLogo.png" alt="Axiom Verify"></div>
+        </div>
     
     <div class="p_login_middle">
         {if $LOGIN_ERROR_MESSAGE}
