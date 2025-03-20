@@ -49,7 +49,7 @@
 
 <div class="p_login">
         <div style="position: absolute; top: 10px; right: 20px;">
-                <a title="Get Axiom Verified" href="https://docs.google.com/forms/d/1CBAeCupO6iyZpaQGVNrd3Nx1w5pNtK0iFJCGBhAOvWA" style="color: white; text-decoration: none;">Get Axiom Verified</a>
+                <a title="Verify Me" href="https://docs.google.com/forms/d/1CBAeCupO6iyZpaQGVNrd3Nx1w5pNtK0iFJCGBhAOvWA" style="color: white; text-decoration: none;">Verify Me</a>
         </div>
 
         <div class="p_login_top">
