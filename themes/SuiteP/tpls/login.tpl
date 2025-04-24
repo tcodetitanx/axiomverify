@@ -51,7 +51,7 @@
         <div style="position: absolute; top: 10px; right: 20px;">
                 <a title="Verify Me" href="https://docs.google.com/forms/d/1CBAeCupO6iyZpaQGVNrd3Nx1w5pNtK0iFJCGBhAOvWA" style="color: white; text-decoration: none;">Verify Me</a>
                 &nbsp;|&nbsp;
-                <a title="Verify my Business" href="https://docs.google.com/forms/d/1CBAeCupO6iyZpaQGVNrd3Nx1w5pNtK0iFJCGBhAOvWA" style="color: white; text-decoration: none;">Verify my Business</a>
+                <a title="Verify my Business" href="https://docs.google.com/forms/d/1m8pbxQPFBw_mlS1krlPBw7etcb6Gitv6MW6ao5o_Kzg" style="color: white; text-decoration: none;">Verify my Business</a>
         </div>
 
         <div class="p_login_top">
@@ -157,6 +157,7 @@
     
 </div>
 <!-- End login container -->
+
 
 
 
